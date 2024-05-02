@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Onboarding Practice</string>
+    <string name="screen1">Check Network</string>
+    <string name="screen2">Grant Permission</string>
+    <string name="screen3">Choose\nAccount</string>
+    <string name="screen4">Capture\n Media</string>
+    <string name="screen5"> View \nFiles</string>
+    <string name="screen1desc">Ensure the device has good internet connection and adequate network data bundle for uploads. </string>
+    <string name="screen2desc">Scroll to SecuredCameraShots on the permission screen and allow \' Appear On Top \' permission for the app to function properly. </string>
+    <string name="screen3desc">Choose Google account whose Google Drive will be used to store uploaded media files.  Captured files will be automatically upload to the account\'s Google drive.</string>
+    <string name="startDesc">Create a long video or shorts and upload on youtube. Interact with your subscribers on youtube live.</string>
+    <string name="screen4desc">Choose desired option for uploading media file to Google Drive.</string>
+    <string name="screen5desc">Choose same email address as logged in user to view the captured files stored in Google Drive.\n Incase of issue accessing the files,logout and login again.".</string>
+
+</resources>
